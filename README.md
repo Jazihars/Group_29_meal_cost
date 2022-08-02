@@ -4,8 +4,8 @@
 更新时，运行下述三个命令：
 ``` bash
 git add .
-git commit -m "2022_7_10"
+git commit -m "need_to_write_20220807"
 git push
 ```
 
-其中，`git commit -m`后面的字符串用于填写最近的一个更新完成的周日的日期。
+其中，`git commit -m`后面的字符串用于填写**接下来需要写入饭费收支情况的最近的一个周日的日期**。
