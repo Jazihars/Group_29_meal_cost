@@ -4,7 +4,7 @@
 更新时，运行下述三个命令：
 ``` bash
 git add .
-git commit -m "need_to_write_20220807"
+git commit -m "20220821"
 git push
 ```
 
